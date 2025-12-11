@@ -126,6 +126,7 @@ loudness
 
 Name: Kanha Patidar
 Branch: B.Tech (CSIT)
+3rd year 
 Interest Areas: Machine Learning, Data Science, Python Development
 Location: Indore, India
 
